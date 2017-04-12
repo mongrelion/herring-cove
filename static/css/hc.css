@@ -423,6 +423,26 @@ img
   padding-bottom:30px
 }
 
+#article .tags
+{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 0.8em;
+}
+
+#article .tags a.tag
+{
+  color: #b6b6b6;
+  border-bottom: 2px #d90006 solid;
+  padding: 10px;
+}
+
+#article .tags a.tag:hover
+{
+  color: #fff;
+  background-color: #d90006;
+}
+
 .user-social
 {
   color:#c4c4c4;
